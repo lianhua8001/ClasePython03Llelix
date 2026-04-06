@@ -15,7 +15,8 @@ palabra_3 = str(input('Ingrese palabra 3:'))
 # Crear una variable llamada acronimo donde se 
 # almacene la primera letra de cada palabra
 # en el orden corespondiente
+acronimo = palabra_1 [0]+ palabra_2[0]+ palabra_3[0]
 
 
 # Imprimir la variable acronimo en pantalla
-
+print (acronimo)

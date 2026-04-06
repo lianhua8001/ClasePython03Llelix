@@ -60,6 +60,9 @@ print(nombre_1, apellido_1)
 # Empezar aquí la resolución del ejercicio
 
 madre=nombre_completo_2.split() 
-nombre_1=madre[0]
-apellido_1=madre[1]
-print(nombre_1, apellido_1)
+nombre_2=madre[0]
+apellido_2=madre[1]
+print(nombre_2, apellido_2)
+
+hijo = nombre +" "+ apellido_1 + " "+ apellido_2
+print ("Nombre completo:", hijo)

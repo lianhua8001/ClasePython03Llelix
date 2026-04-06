@@ -18,13 +18,14 @@ print(nombre, apellido)
 # almacene el contenido de las variables nombre y apellido
 # separando con un espacio su nombre de su apellido
 
-nombre_apellido = nombre, apellido
+nombre_apellido = nombre +""+ apellido
 
 
 # Crear una variable llamada cantidad donde se
 # almacene la cantidad de caracteres que posee la variable
 # nombre_apellido utilizando la función len
+cantidad = len (nombre_apellido)
 
 
 # Imprimir en pantalla la variable cantidad
-
+print (cantidad)
