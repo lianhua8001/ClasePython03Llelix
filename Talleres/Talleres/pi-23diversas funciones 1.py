@@ -24,6 +24,6 @@ nombre_completo=str(input("Introduzca su nombre completo en mayúscula:"))
 print (nombre_completo)
 
 nombre_lower=nombre_completo.lower()
-print(nombre_lower)
+print("El nombre en minuscula es:", nombre_lower)
 
 

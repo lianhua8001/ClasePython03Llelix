@@ -8,8 +8,8 @@ nota_2 = int(input("Ingrese la nota 2:"))
 nota_3 = int(input("Ingrese la nota 3:"))
 
 #se realiza la operacion para saber el promedio final
-suma = nota_1 + nota_2 + nota_3
-promedio = suma/3
+promedio = nota_1 + nota_2 + nota_3
+
 
 #se realiza las condicionales requeridas
 
